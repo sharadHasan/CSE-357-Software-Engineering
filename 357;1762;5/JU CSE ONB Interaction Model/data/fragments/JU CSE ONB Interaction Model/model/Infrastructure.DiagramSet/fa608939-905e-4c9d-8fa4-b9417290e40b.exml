@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JU CSE ONB Interaction Model" version="4">
+  <OBJECT>
+    <ID name="JU CSE ONB Interaction Model" mc="Infrastructure.DiagramSet" uid="fa608939-905e-4c9d-8fa4-b9417290e40b"/>
+    <PID name="JU CSE ONB Interaction Model" mc="Standard.Project" uid="9b775f88-f9f7-42e6-b5a6-430c3dc39c93"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[JU CSE ONB Interaction Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

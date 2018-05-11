@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ju cse onb interaction model" version="4">
+  <OBJECT>
+    <ID name="ju cse onb interaction model" mc="Standard.Package" uid="b2f81b02-da53-41e0-9058-1b8ff6146019"/>
+    <PID name="JU CSE ONB Interaction Model" mc="Standard.Project" uid="9b775f88-f9f7-42e6-b5a6-430c3dc39c93"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ju cse onb interaction model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Log In" mc="Standard.UseCase" uid="78365e61-70ff-460b-a0fe-caaf218d88f9"/>
+        <COMPID name="View Notice" mc="Standard.UseCase" uid="5d4ae067-00f1-4343-b668-fc35d7204690"/>
+        <COMPID name="Download Notice" mc="Standard.UseCase" uid="74340b50-ee20-4cb6-a42c-487086aaea01"/>
+        <COMPID name="Sort Notice" mc="Standard.UseCase" uid="04f3a642-a81f-499f-a0d2-d41e7ef38a80"/>
+        <COMPID name="View Result" mc="Standard.UseCase" uid="f527b212-7854-4074-b759-8f961ff65e9a"/>
+        <COMPID name="Generate Result " mc="Standard.UseCase" uid="7b85313c-3f12-4545-b14a-a45dfcee531a"/>
+        <COMPID name="Sort Result" mc="Standard.UseCase" uid="d1d40e2a-3c36-42d9-9430-845d7afaf500"/>
+        <COMPID name="Download Result" mc="Standard.UseCase" uid="65b31248-c2b2-4895-a635-9ec8ff4730b9"/>
+        <COMPID name="Delete Result" mc="Standard.UseCase" uid="c59ea3dd-ef39-4394-bdd4-acb2d97e13e4"/>
+        <COMPID name="Create Notice" mc="Standard.UseCase" uid="e5eabc2c-515a-4838-bdc0-b2b2a070716f"/>
+        <COMPID name="Modify Notice" mc="Standard.UseCase" uid="91fe7158-15db-4346-9bbc-56510b5bedee"/>
+        <COMPID name="Delete Notice" mc="Standard.UseCase" uid="e57972e4-d67e-4e29-9cc8-e55c2ddf64df"/>
+        <COMPID name="FeedBack" mc="Standard.UseCase" uid="9b3c06ef-f092-4018-b52b-8ebffa950930"/>
+        <COMPID name="Admin" mc="Standard.Actor" uid="ff364d5a-50a2-4f53-b63f-b088b6983b7f"/>
+        <COMPID name="User" mc="Standard.Actor" uid="a64a234f-119c-4c6e-acb7-efd78cfe829b"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ju cse onb interaction model Use Case diagram" mc="Standard.UseCaseDiagram" uid="3eefd619-3f5d-4d54-a529-d701c049f1f5"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="State Machine State Machine diagram" version="4">
+  <OBJECT>
+    <ID name="State Machine State Machine diagram" mc="Standard.StateMachineDiagram" uid="e65ba084-4861-448a-8b4c-ed78a5087bda"/>
+    <PID name="State Machine" mc="Standard.StateMachine" uid="1a785268-b3db-4179-801a-7dbdbd1fa5c4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">96</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[State Machine State Machine diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="c707a1ee-d58d-446b-b09b-a13b93b5da8d"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JU CSE ONB Activity Model" version="4">
+  <OBJECT>
+    <ID name="JU CSE ONB Activity Model" mc="Standard.Project" uid="7bf060b6-28e9-4775-8901-0cc387008c78"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[JU CSE ONB Activity Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="ju cse onb activity model" mc="Standard.Package" uid="511ed855-3d51-4da9-b987-ec9600687f39"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="JU CSE ONB Activity Model" mc="Infrastructure.DiagramSet" uid="f1a0fd7c-cd7e-4cae-99be-b34be77efb45"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

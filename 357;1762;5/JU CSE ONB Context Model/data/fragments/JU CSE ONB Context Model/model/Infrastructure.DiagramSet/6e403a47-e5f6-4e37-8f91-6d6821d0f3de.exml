@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JU CSE ONB Context Model" version="4">
+  <OBJECT>
+    <ID name="JU CSE ONB Context Model" mc="Infrastructure.DiagramSet" uid="6e403a47-e5f6-4e37-8f91-6d6821d0f3de"/>
+    <PID name="JU CSE ONB Context Model" mc="Standard.Project" uid="d5411fd0-bfc4-4b59-9bd3-730b715e4d1b"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[JU CSE ONB Context Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JU CSE ONB Structural Model" version="4">
+  <OBJECT>
+    <ID name="JU CSE ONB Structural Model" mc="Standard.Project" uid="e51a361b-a23b-4ea4-968f-714338284547"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[JU CSE ONB Structural Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="ju cse onb structural model" mc="Standard.Package" uid="c466f274-a48a-4519-b79c-d445e98b98cf"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="JU CSE ONB Structural Model" mc="Infrastructure.DiagramSet" uid="c6a6e07c-498a-4008-a00a-233b495df528"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

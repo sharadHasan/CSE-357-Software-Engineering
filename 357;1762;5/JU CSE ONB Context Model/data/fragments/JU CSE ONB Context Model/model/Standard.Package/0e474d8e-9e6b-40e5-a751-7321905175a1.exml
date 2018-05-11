@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ju cse onb context model" version="4">
+  <OBJECT>
+    <ID name="ju cse onb context model" mc="Standard.Package" uid="0e474d8e-9e6b-40e5-a751-7321905175a1"/>
+    <PID name="JU CSE ONB Context Model" mc="Standard.Project" uid="d5411fd0-bfc4-4b59-9bd3-730b715e4d1b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ju cse onb context model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="1a785268-b3db-4179-801a-7dbdbd1fa5c4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

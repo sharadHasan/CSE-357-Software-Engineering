@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ju cse onb structural model" version="4">
+  <OBJECT>
+    <ID name="ju cse onb structural model" mc="Standard.Package" uid="c466f274-a48a-4519-b79c-d445e98b98cf"/>
+    <PID name="JU CSE ONB Structural Model" mc="Standard.Project" uid="e51a361b-a23b-4ea4-968f-714338284547"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ju cse onb structural model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Student" mc="Standard.Class" uid="514a6116-518d-41a6-aadb-44b1493fc1e3"/>
+        <COMPID name="Log Out" mc="Standard.Class" uid="a0384514-7697-4293-968f-2eddfa2a7d5b"/>
+        <COMPID name="Log In" mc="Standard.Class" uid="472e7a25-b7f9-46ee-b816-3ab394b4515d"/>
+        <COMPID name="Database" mc="Standard.Class" uid="6a9e2fa5-8061-49b0-b0eb-8b53c654080c"/>
+        <COMPID name="Admin" mc="Standard.Class" uid="b6a30819-0133-440d-b67d-18eb4be164ac"/>
+        <COMPID name="Register" mc="Standard.Class" uid="ad30cb16-b00d-44fb-b108-99db6c11a81f"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ju cse onb structural model Class diagram" mc="Standard.ClassDiagram" uid="bf6186e6-128a-4ee2-bc15-0b4c70e8d447"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
